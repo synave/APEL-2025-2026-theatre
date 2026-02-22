@@ -11,7 +11,7 @@ Le fond de l'affiche a été créé par chatGPT et modifié par gemini.
 
 Famille de police utilisée : "Bodoni MT"
 
-#Pour modifier l'affiche
+# Pour modifier l'affiche
 
 Ouvrir le fichier source (APEL-2025-2026-theatre.docx) avec Word. Les polices sont standard dans word.
 
