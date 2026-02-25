@@ -15,7 +15,7 @@ Famille de police utilisée : "Bodoni MT"
 
 Ouvrir le fichier source (APEL-2025-2026-theatre.docx) avec Word. Les polices sont standard dans word.
 
-# Pour modifier leqs tickets d'entrée
+# Pour modifier les tickets d'entrée
 
 Ouvrir le fichier source (APEL-2025-2026-ticket_theatre_orchestre.docx ou autre) avec Word. Les polices sont standard dans word.
 
